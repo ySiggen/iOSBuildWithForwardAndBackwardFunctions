@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="kinetika_soundcloud_typo" size="0.038600 0.040575" />
+    <ImageTarget name="kinetika_cover_15x15" size="0.150000 0.150000" />
+    <ImageTarget name="twitter-duo" size="0.038600 0.021162" />
+    <ImageTarget name="soundcloud-duo" size="0.038600 0.021162" />
+    <ImageTarget name="interview4-duo" size="0.038600 0.021162" />
+    <ImageTarget name="interview3-duo" size="0.038600 0.021162" />
+    <ImageTarget name="interview2-duo" size="0.038600 0.021116" />
+    <ImageTarget name="interview1-duo" size="0.038600 0.021162" />
+    <ImageTarget name="instagram-duo" size="0.038600 0.021209" />
+    <ImageTarget name="facebook-duo" size="0.038600 0.020933" />
+    <ImageTarget name="3_i_dont_need_it" size="0.185000 0.100332" />
+    <ImageTarget name="2_the_battle" size="0.341200 0.184969" />
+  </Tracking>
+</QCARConfig>
